@@ -1,7 +1,0 @@
-the guauava library /api came in old version by default with sleneium 3, 4 latest version 
-hence add the updated gauava dependency of new version in pom.xml :-
-<dependency>
-  <groupId>com.google.guava</groupId>
-  <artifactId>guava</artifactId>
-  <version>24.0-jre</version>
-</dependency> 

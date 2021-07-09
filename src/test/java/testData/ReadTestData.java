@@ -32,7 +32,7 @@ private static String url;
 
 public static String configFileReader() throws IOException {
 
-   // BufferedReader reader = new BufferedReader(new FileReader(PropertyFilePath));
+  
     Properties prop = new Properties();
     FileInputStream ip= new FileInputStream(PropertyFilePath);
      prop.load(ip);
